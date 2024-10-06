@@ -1,0 +1,25 @@
+{
+    "accountUsername": "standard_user",
+    "accountPw": "secret_sauce",
+    "productsPage": "/inventory.html",
+    "cartPage": "/cart.html",
+    "elementProduct": {
+        "image": "inventory_item_img",
+        "name": "inventory_item_name",
+        "description": "inventory_item_desc",
+        "price": "inventory_item_price"
+    },
+    "elementDetailProduct": {
+        "image": "inventory_details_img",
+        "name": "inventory_details_name",
+        "description": "inventory_details_desc",
+        "price": "inventory_details_price",
+        "cart": "add-to-cart"
+    },
+    "spesificProduct": {
+        "image": "/static/media/sauce-backpack-1200x1500.0a0b85a3.jpg",
+        "name": "Sauce Labs Backpack",
+        "description": "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.",
+        "price": "$29.99"
+    }
+}
