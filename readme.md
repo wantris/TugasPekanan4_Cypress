@@ -15,11 +15,11 @@ npm install
 ## Usage
 
 ```python
-npx run test
+npm run test
 
-npx run merge
+npm run merge
 
-npx generate-report
+npm generate-report
 
 ```
 
